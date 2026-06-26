@@ -45,7 +45,7 @@ The game is for everyone, and kids play **anonymously with no crypto in front of
 ## Team + roadmap
 
 **Who's behind it?**
-A small crew that ships in the open — more on the [team page](team).
+A small crew that ships in the open — **Odi (lead marketing)** and **Dutch (lead dev)** at the core, both doing a bit of everything. More on the [team page](team).
 
 **What's next?**
 More games (**Chess** is in the works → Home becomes a mini-game selector), tournaments, app-store listings, and more languages. We give targets, not guarantees, because we'd rather under-promise and ship.
