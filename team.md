@@ -8,7 +8,8 @@ A small, heads-down crew building Ruby Trivia in the open. Here's how we work an
 
 ## The crew
 - **Dutch (iono) & Odi** — the two-person core, basically tied across everything: product, the app you play, the backend, the game engine, infrastructure, the token side, and the roadmap. Whatever needs doing, one of them is on it.
-- **Destiny** — community + Telegram.
+- **X / socials ([@RubyTriviaAI](https://x.com/RubyTriviaAI))** — currently run by **Odi**.
+- **Destiny** — the **community chat + Telegram** (moderation, engagement). This is the community side — not the X account.
 - **mdm** — testing + keeping us honest.
 - **Consultants & outside contacts** — market, listings, and app-store guidance (advice, not running the show).
 

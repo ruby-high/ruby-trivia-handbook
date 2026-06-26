@@ -13,19 +13,19 @@ Fresh off launch, heads-down — building and having fun. Here's the plan and ho
 
 ## Play + compete
 - 🎮 **Play today's quiz** → [ruby-trivia.com](https://ruby-trivia.com)
-- ⚔️ **Challenge a friend** to a live match. Steal this copy:
+- ⚔️ **Challenge a friend** to a live match. A few examples to riff on:
   - *Just beat today's Ruby Trivia daily quiz. Bet you can't top me 😏 ruby-trivia.com*
   - *Live trivia in Ruby right now — who's got 5 minutes and something to prove? ruby-trivia.com*
   - *@friend I'm challenging you to a Ruby Trivia match. Loser admits the other's smarter. ruby-trivia.com*
 
-## Help spread the word — grab-and-go posts
-Repping Ruby on X this weekend? Use or remix these (utility-first, no price talk — keep it about the game):
+## Help spread the word — example posts to work from
+Repping Ruby this weekend? **These are rough examples to work from — make them your own, don't post them word-for-word.** Keep it utility-first, no price talk, and the game front and center:
 1. *Ruby Trivia is live. Daily quiz, live multiplayer, friend challenges — free, no ads, installs to your phone. We didn't promise you a chart; we built you a game. Play today's quiz 👉 ruby-trivia.com*
 2. *Heads-down weekend at Ruby Trivia — polishing the app and lining up the next game. Build in public, proof on chain. Come play while we cook 👉 ruby-trivia.com*
 3. *Holders: connect at web3.ruby-trivia.com for perks — a score multiplier, the holders-only leaderboard, cosmetics, more coming. Utility, not promises.*
 4. *No moonboy talk here — just a real game you can play right now and a roadmap we're building. ruby-trivia.com $TRIVIA*
 
-**The honest "where we are" thread (adapt freely):**
+**Example "where we are" thread (a starting point — rewrite in your own voice):**
 > 1/ Where Ruby Trivia stands, post-launch — the honest version. 🧵
 > 2/ The app is **live and free**: daily quiz, live multiplayer, practice, friend challenges, leaderboards, 4 languages. Installs to your phone — no app store needed. ruby-trivia.com
 > 3/ **$TRIVIA** is on Solana. Transparent, deflationary design — scheduled burns + supply reduction over time. Utility-first; no promises of returns.
@@ -34,7 +34,7 @@ Repping Ruby on X this weekend? Use or remix these (utility-first, no price talk
 > 6/ Come play today's quiz, challenge a friend, and join our **Space this weekend**. 👉 ruby-trivia.com
 
 ## The Space (Saturday evening)
-- Follow [@RubyTriviaAI](https://x.com/RubyTriviaAI) for the exact time + a reminder.
+- Follow [@RubyTriviaAI](https://x.com/RubyTriviaAI) (our X, currently run by Odi) for the exact time + a reminder.
 - We'll cover what we shipped, the Ruby agent, live multiplayer, where $TRIVIA goes next — and take your questions. Bring your worst trivia takes.
 
 ## Holders
