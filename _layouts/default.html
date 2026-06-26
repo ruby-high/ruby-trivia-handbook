@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title | default: site.title }}</title>
+  <style>
+    :root { color-scheme: light dark; }
+    body { max-width: 680px; margin: 2.5rem auto; padding: 0 1.2rem;
+      font: 17px/1.65 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #232323; }
+    @media (prefers-color-scheme: dark){ body{ color:#e7e7e7; background:#101011; } a{ color:#ec8a6a; } }
+    a { color: #b5482e; text-decoration: none; } a:hover { text-decoration: underline; }
+    h1 { margin: 0 0 .8rem; line-height: 1.2; } h2 { margin-top: 1.9rem; }
+    ul { padding-left: 1.2rem; } li { margin: .3rem 0; }
+    hr { border: none; border-top: 1px solid #8883; margin: 2rem 0; }
+    code { background:#8881; padding:.1em .3em; border-radius:3px; }
+  </style>
+</head>
+<body>
+{{ content }}
+</body>
+</html>
