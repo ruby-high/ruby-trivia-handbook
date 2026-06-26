@@ -7,8 +7,7 @@ title: How Ruby Trivia works
 A small, heads-down crew building Ruby Trivia in the open. Here's how we work and who does what.
 
 ## The crew
-- **Dutch (iono)** — product + the app you play: frontend, UX, the roadmap.
-- **Odi** — the backend, the game engine, infrastructure, and the token side.
+- **Dutch (iono) & Odi** — the two-person core, basically tied across everything: product, the app you play, the backend, the game engine, infrastructure, the token side, and the roadmap. Whatever needs doing, one of them is on it.
 - **Destiny** — community + Telegram.
 - **mdm** — testing + keeping us honest.
 - **Consultants & outside contacts** — market, listings, and app-store guidance (advice, not running the show).
