@@ -5,3 +5,5 @@ title: Ruby Trivia
 - [This weekend at Ruby Trivia](weekend)
 - [Holder perks (Web3)](web3)
 - [FAQ](faq)
+
+<sub>[Privacy Policy](privacy) · [Terms of Use](terms)</sub>
