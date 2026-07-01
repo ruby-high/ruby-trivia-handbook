@@ -5,7 +5,7 @@ title: This Week — Ruby Trivia
 # This Week
 ### Week of June 30 – July 6, 2026
 
-<div class="callout"><div class="when">🎙️ Space — Thursday, July 2 · 11:00 AM</div>We're <strong>joining</strong> a Space on X (guests, not hosting). <a href="https://x.com/RubyTriviaAI">Follow @RubyTriviaAI</a>. → <a href="space">Talking points to pull from</a></div>
+<div class="callout"><div class="when">🎙️ LOOPLAY AMA #3 — Thu July 2 · 3:00 PM UTC <span style="opacity:.85">(11 AM ET)</span></div>"Golden Age of Vibe-Coded Games?" — we're a <strong>guest</strong> on X. <a href="https://x.com/RubyTriviaAI">Follow @RubyTriviaAI</a>. → <a href="space">Our talking points</a></div>
 
 ## What we're focused on
 - **Going multi-platform.** Ruby Trivia is heading to more stores — **Amazon Appstore** and **Steam** builds are ready and getting submitted. Free, no ads, same game everywhere.
@@ -15,7 +15,7 @@ title: This Week — Ruby Trivia
 
 ## Team
 - **Standup: Wednesday morning** — quick sync on progress + blockers. → [agenda](standup)
-- **Space (guest): Thursday, 11 AM** → [talking points](space)
+- **LOOPLAY AMA #3 (guest): Thursday, 3 PM UTC / 11 AM ET** → [talking points](space)
 
 ## Copy to use — grab &amp; post
 Keep the momentum. Steal these, make them your own (utility-first, no price talk):
