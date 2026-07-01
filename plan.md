@@ -17,12 +17,8 @@ title: This Week — Ruby Trivia
 - **Standup: Wednesday morning** — quick sync on progress + blockers. → [agenda](standup)
 - **LOOPLAY AMA #3 (guest): Thursday, 3 PM UTC / 11 AM ET** → [talking points](space)
 
-## Copy to use — grab &amp; post
-Keep the momentum. Steal these, make them your own (utility-first, no price talk):
-- **Challenge a friend:** *"Just beat today's Ruby Trivia daily quiz. Bet you can't top me 😏 ruby-trivia.com"*
-- **Rep it:** *"Ruby Trivia is live — free daily trivia + live multiplayer. We built you a game, not a chart. ruby-trivia.com"*
-- **Holders:** *"Connect at web3.ruby-trivia.com for holder perks — badge, holders-only leaderboard, cosmetics. Utility, not promises."*
-- **Reminder to self:** challenge 1–2 **real** people to play this week — cheapest growth there is.
+## Copy to use
+Grab the next tweet from the **[Posts pile](posts)** → post it → tick it off. Utility-first, no price talk.
 
 ---
 [← Handbook home](/) · [Past weeks](archive)
