@@ -11,7 +11,7 @@ title: Standup — Wednesday
 - ✅ **$TRIVIA launched** (Solana / pump.fun).
 - ✅ **Now a registered business** — LLC, EIN, and D-U-N-S all done (DUNS unblocks Google Play + Apple).
 - ✅ **Stores in motion** — Amazon APK submitting; Steam account created.
-- ✅ **Web3 GREEN release staged** (PR #49) — holder perks built + tested, pending sign-off (below).
+- ✅ **Web3 recognition layer** built + tested — recognition-only, ready to deploy (below).
 - ✅ **Handbook expanded** — Posts / Calendar / Playbook / Roadmap tabs + mobile nav.
 - ✅ **Tweet queue** (shared sheet) live for the team.
 
@@ -51,8 +51,8 @@ Roadmap only (the old design was EVM/BNB and is **not deployed**; a Solana build
 - Achievement NFTs (burn-to-mint collectibles)
 
 ## The web3 call this week
-- **GREEN sign-off** (Lotus/Itachi) on the recognition list → coordinated prod deploy (owner + time).
-- **Next green:** holder-verified achievement badge (ready to build); commemorative collectible (plan).
+- **Ship it:** the recognition perks are green and ready — just schedule the prod deploy (who runs it + when).
+- **Next:** holder-verified achievement badge (ready to build); commemorative collectible (plan).
 
 ## 📱 App stores
 - **Amazon** — token-free build submitting (targeted this week).
@@ -60,13 +60,13 @@ Roadmap only (the old design was EVM/BNB and is **not deployed**; a Solana build
 - **Order of attack:** Amazon → Google Play → Samsung → Steam → Apple.
 
 ## This week's priorities
-1. **Web3 GREEN** sign-off + deploy.
+1. **Web3** — deploy the recognition layer.
 2. **Amazon** submission out the door.
 3. **Keep the game solid** — stability, multiplayer polish, more questions.
 4. **Prep the Looplay AMA** (Thu).
 
 ## Decisions to close
-- Web3 sign-off + deploy owner.
+- Web3 deploy — who runs it + when.
 - Tweet approvers (1–2).
 - Gold check (X verified business) — proceed?
 - OOBE partnership — go / no-go before Friday.
@@ -74,7 +74,6 @@ Roadmap only (the old design was EVM/BNB and is **not deployed**; a Solana build
 
 ## Blockers
 - **Domain email deliverability** (needed for X verification) — in progress.
-- **Web3 deploy** pending sign-off.
 
 ## Reminders
 - 🎙️ **Thu Jul 2, 11 AM ET — Looplay AMA #3** (we're a guest) → [talking points](space)
