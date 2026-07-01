@@ -16,11 +16,9 @@ Verified **$TRIVIA** holders get recognition extras on top of the same free game
 The perks are **pure recognition** — cosmetics and status. **No gameplay advantage, no pay-to-win, no score boosts — ever.** Holding more $TRIVIA changes how you look and where you stand, never how you score. Utility, not promises.
 
 ## The token, honestly
-$TRIVIA is **utility-first**, with two honest roles:
-- **Spend it** — on cosmetics and collectibles. It's *consumed* like an arcade token, and it burns supply.
-- **Hold it** — for recognition perks: status, the holders-only leaderboard, cosmetics.
+The game is **always free** — daily quiz, multiplayer, and a full sample of categories, no wallet, ever. You can even **unlock more just by playing**: regular players earn unlocks, and the reward is **access, not tokens**.
 
-The game is **always free**, token features are **optional and adults-only**, and there's **no yield, no returns, no gambling, no price promises.** Anything new clears legal review before it ships.
+$TRIVIA is **utility-first** — an *optional* way to unlock extras and support the build. **Never required to play, never about returns.** Anything new is **adults-only** and **cleared with counsel before it ships.** **No yield, no staking, no gambling, no price promises** — a way to *use and support* Ruby, not an investment.
 
 ## Coming next
 - **Holder achievement badge** — earn a recorded badge for being a verified holder.
