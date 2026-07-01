@@ -36,7 +36,7 @@ title: Thursday — LOOPLAY AMA #3
 
 ## Quick facts (have handy)
 - Free trivia + mini-games app, hosted by **Ruby**, an AI quizmaster. Live at **ruby-trivia.com** — daily quiz, live multiplayer, friend challenges, leaderboards, **4 languages**, installs to phone.
-- **$TRIVIA** on Solana — utility-first, deflationary; recognition-first holder perks at **web3.ruby-trivia.com**.
+- **$TRIVIA** on Solana — utility-first, fixed supply (mint revoked, LP locked); recognition-first holder perks at **web3.ruby-trivia.com**.
 - **Coming:** more games (Chess), app stores (Amazon + Steam), one account that links everything.
 
 ## Say / don't
