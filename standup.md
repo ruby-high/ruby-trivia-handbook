@@ -25,9 +25,9 @@ On-chain recognition layer, keyed to verified **$TRIVIA** balance:
 - **Verified holder badge** — on profile + leaderboard
 - **Holders-only leaderboard** — its own tab
 - **Cosmetics** — tier-unlocked themes / badges / crowns (no gameplay power)
-- **Tier ladder** (by $TRIVIA held):
+- **Tier ladder** (by $TRIVIA held) — ⚠️ **placeholder numbers, not final, subject to change:**
 
-| Tier | Holds |
+| Tier | Holds *(placeholder)* |
 |---|---|
 | Ruby Holder | 1+ |
 | Ruby Stacker | 10,000+ |
