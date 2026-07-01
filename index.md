@@ -1,9 +1,9 @@
 ---
 title: Ruby Trivia
 ---
+- [📋 This week's plan](plan)
 - [How we work + who's behind it](team)
-- [This weekend at Ruby Trivia](weekend)
 - [Holder perks (Web3)](web3)
 - [FAQ](faq)
 
-<sub>[Privacy Policy](privacy) · [Terms of Use](terms)</sub>
+<sub>[Weekly archive](archive) · [Privacy Policy](privacy) · [Terms of Use](terms)</sub>
