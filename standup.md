@@ -36,6 +36,8 @@ On-chain recognition layer, keyed to verified **$TRIVIA** balance:
 
 Tiers are **status/recognition only** — badge, leaderboard standing, cosmetics. **No score boost, no gameplay advantage.** (Pay-to-win multipliers were removed — everyone scores the same.)
 
+> ⚠️ **The tier thresholds above are placeholders** — rough starting numbers, **not final and subject to change.** Don't quote them as official.
+
 ## Staking
 **None.** "Stacker" is just a holder-tier name — there's no staking or locking live. (A refundable-lock design exists on paper for a possible future Solana build.)
 
