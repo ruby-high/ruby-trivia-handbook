@@ -15,6 +15,13 @@ Verified **$TRIVIA** holders get recognition extras on top of the same free game
 ## Our approach: recognition only
 The perks are **pure recognition** — cosmetics and status. **No gameplay advantage, no pay-to-win, no score boosts — ever.** Holding more $TRIVIA changes how you look and where you stand, never how you score. Utility, not promises.
 
+## The token, honestly
+$TRIVIA is **utility-first**, with two honest roles:
+- **Spend it** — on cosmetics and collectibles. It's *consumed* like an arcade token, and it burns supply.
+- **Hold it** — for recognition perks: status, the holders-only leaderboard, cosmetics.
+
+The game is **always free**, token features are **optional and adults-only**, and there's **no yield, no returns, no gambling, no price promises.** Anything new clears legal review before it ships.
+
 ## Coming next
 - **Holder achievement badge** — earn a recorded badge for being a verified holder.
 - **Commemorative holder collectible** — a non-financial, art-only thank-you.
