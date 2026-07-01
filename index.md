@@ -7,8 +7,7 @@ title: Ruby Trivia — Handbook
   <h1>Ruby Trivia</h1>
   <p class="tag">A free trivia &amp; mini-games app for everyone, hosted by Ruby — built in the open.</p>
   <div class="btns">
-    <a class="btn primary" href="https://ruby-trivia.com">Play now</a>
-    <a class="btn ghost" href="plan">This week's plan</a>
+    <a class="btn primary" href="plan">This week's plan</a>
   </div>
 </div>
 

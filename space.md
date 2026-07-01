@@ -1,40 +1,34 @@
 ---
-title: Thursday Space — Run of Show
+title: Thursday Space — Talking Points
 ---
 
-# Thursday Space
+# Thursday Space — what to pull from
 
-<div class="callout"><div class="when">🎙️ Thursday, July 2 · 11:00 AM</div>On X — <a href="https://x.com/RubyTriviaAI">follow @RubyTriviaAI</a> and set a reminder.</div>
+<div class="callout"><div class="when">🎙️ Thursday, July 2 · 11:00 AM</div>We're <strong>joining</strong> a Space (guests, not hosting). Follow <a href="https://x.com/RubyTriviaAI">@RubyTriviaAI</a>.</div>
 
-*Notes for whoever hosts. Calm, product-first — and record it this time.*
+*We're a guest — no script to run. Just points to pull from when it's our turn. Say what's true, keep it easy.*
 
-## Who's up
-**Dutch** (product / the app) + **Odi** (tech / token). One drives, the other fills in — conversational, not a lecture.
+## Quick facts (have these handy)
+- **Free** trivia + mini-games app, hosted by **Ruby**, an AI quizmaster. Live at **ruby-trivia.com**.
+- Daily quiz, **live multiplayer**, friend challenges, leaderboards, streaks — in **4 languages** (EN / 中文 / ES / FR). Installs to your phone.
+- **$TRIVIA** on Solana — utility-first, deflationary. Holder perks (badge, holders-only leaderboard, cosmetics) at **web3.ruby-trivia.com**.
+- **Coming:** more games (Chess), app stores (Amazon + Steam), and one Ruby account that links everything.
 
-## Open (~60 sec)
-> "Thanks for hopping on. Ruby Trivia is a free trivia + mini-games app, hosted by Ruby, our AI quizmaster. It's **live right now** — open ruby-trivia.com and play today's quiz while we talk. We'll cover what we shipped, what's next, and take your questions."
-
-## The beats (hit these in order)
-1. **What it is + it's LIVE** — daily quiz, live multiplayer, friend challenges, leaderboards, 4 languages, installs to your phone.
-2. **Build-in-public** — a real product, not just a chart. We ship and improve it daily.
-3. **The Ruby agent + live multiplayer** — the fun part; challenge a friend live.
-4. **Going multi-platform** — Amazon Appstore + Steam builds are ready and getting submitted.
-5. **Holder perks (web3)** — recognition-first: holder badge, holders-only leaderboard, cosmetics. Connect at web3.ruby-trivia.com.
-6. **What's next** — more games (Chess), one Ruby account that links everything, more languages.
+## Points to make
+- We ship a **real product, not just a chart** — build in public.
+- Perks are **recognition-first**; gameplay perks go through legal review before they're live.
+- The token's a **bonus layer** — the game is free for everyone.
 
 ## Soundbites
 - *"Most projects show you a chart. We show you a product you can play right now."*
-- *"Free, no ads, installs on any phone — the token's a bonus layer, not the point."*
-- *"Judge us by what we ship."*
+- *"Free, no ads, installs on any phone."*
 
-## If price / FUD comes up
-Keep it honest and forward: *"Not what we're here for, and not something we'd promise — we measure ourselves on whether people actually play. Utility, not promises."* Don't talk price.
+## If price comes up
+*"Not what we're here for, and not something we'd promise — we measure ourselves on whether people actually play. Utility, not promises."* Don't talk price.
 
-## CTAs (repeat 2–3×)
-🎮 Play → ruby-trivia.com · ⚔️ Challenge a friend · 💎 Holders → web3.ruby-trivia.com · 🔔 Follow + turn on notifs.
-
-## Close (~30 sec)
-> "Appreciate everyone hopping on. Go play, challenge a friend, and we'll keep shipping — we'll do these regularly. Thanks."
+## Say / don't
+- ✅ product, perks, roadmap, build-in-public, "targets, not guarantees."
+- ❌ price, returns, "guaranteed," promises with dates.
 
 ---
-[← This week](plan)
+[← This week](plan) · *Hosting our own later? [Run-of-show](space-hosting)*
