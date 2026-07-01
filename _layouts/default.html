@@ -4,19 +4,96 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <title>{{ page.title | default: site.title }}</title>
+  <meta name="description" content="{{ site.description }}">
+  <link rel="icon" href="assets/favicon.png">
+  <meta property="og:title" content="{{ page.title | default: site.title }}">
+  <meta property="og:image" content="assets/banner.jpg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
   <style>
-    :root { color-scheme: light dark; }
-    body { max-width: 680px; margin: 2.5rem auto; padding: 0 1.2rem;
-      font: 17px/1.65 -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; color: #232323; }
-    @media (prefers-color-scheme: dark){ body{ color:#e7e7e7; background:#101011; } a{ color:#ec8a6a; } }
-    a { color: #b5482e; text-decoration: none; } a:hover { text-decoration: underline; }
-    h1 { margin: 0 0 .8rem; line-height: 1.2; } h2 { margin-top: 1.9rem; }
-    ul { padding-left: 1.2rem; } li { margin: .3rem 0; }
-    hr { border: none; border-top: 1px solid #8883; margin: 2rem 0; }
-    code { background:#8881; padding:.1em .3em; border-radius:3px; }
+    :root{
+      --ruby:#a3232b; --clay:#c05a3a; --ember:#e07a4f;
+      --cream:#faf5ee; --paper:#ffffff; --ink:#2a1f1a; --muted:#6f5d52;
+      --line:#ece0d2; --shadow:0 1px 2px rgba(70,35,20,.05),0 10px 30px rgba(120,60,30,.06);
+      --radius:14px;
+    }
+    @media (prefers-color-scheme:dark){
+      :root{ --cream:#15110f; --paper:#211a16; --ink:#ece3da; --muted:#a89a8f;
+        --line:#382c24; --ruby:#f08161; --clay:#e58057;
+        --shadow:0 1px 2px rgba(0,0,0,.35),0 10px 30px rgba(0,0,0,.28); }
+    }
+    *{box-sizing:border-box}
+    html{scroll-behavior:smooth}
+    body{margin:0;font-family:Inter,system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);
+      background:var(--cream);line-height:1.65;-webkit-font-smoothing:antialiased}
+    a{color:var(--ruby);text-decoration:none}a:hover{text-decoration:underline}
+    header.site{position:sticky;top:0;z-index:20;display:flex;align-items:center;justify-content:space-between;
+      gap:1rem;padding:.6rem clamp(1rem,4vw,2rem);background:color-mix(in srgb,var(--cream) 86%,transparent);
+      backdrop-filter:blur(10px);border-bottom:1px solid var(--line)}
+    .brand{display:flex;align-items:center;gap:.55rem;font-family:Fraunces,serif;font-weight:700;font-size:1.1rem;color:var(--ink)}
+    .brand:hover{text-decoration:none}
+    .brand img{width:32px;height:32px;border-radius:9px;box-shadow:var(--shadow)}
+    header.site nav{display:flex;gap:clamp(.5rem,2.2vw,1.3rem);font-weight:500;font-size:.94rem;flex-wrap:wrap;justify-content:flex-end}
+    header.site nav a{color:var(--muted)}header.site nav a:hover{color:var(--ruby);text-decoration:none}
+    main{max-width:760px;margin:0 auto;padding:clamp(1.4rem,4vw,2.8rem) clamp(1rem,4vw,1.5rem)}
+    h1{font-family:Fraunces,serif;font-weight:700;font-size:clamp(1.9rem,5vw,2.5rem);line-height:1.12;margin:.1em 0 .45em}
+    h2{font-family:Fraunces,serif;font-weight:600;font-size:1.45rem;margin:2rem 0 .6rem;color:var(--ruby)}
+    h3{font-family:Fraunces,serif;font-weight:600;margin:1.5rem 0 .4rem}
+    h3.date{color:var(--muted);font-weight:500;font-size:1rem;margin-top:-.4em}
+    p,li{font-size:1.04rem}
+    blockquote{border-left:3px solid var(--clay);background:var(--paper);margin:1.2rem 0;padding:.7rem 1.15rem;
+      border-radius:0 var(--radius) var(--radius) 0;box-shadow:var(--shadow)}
+    table{width:100%;border-collapse:collapse;margin:1.2rem 0;background:var(--paper);border-radius:var(--radius);
+      overflow:hidden;box-shadow:var(--shadow);font-size:.98rem}
+    th,td{padding:.6rem .9rem;border-bottom:1px solid var(--line);text-align:left}
+    tr:last-child td{border-bottom:none}
+    th{background:color-mix(in srgb,var(--ruby) 8%,transparent);font-family:Fraunces,serif;font-weight:600}
+    td:not(:first-child),th:not(:first-child){text-align:right}
+    code{background:color-mix(in srgb,var(--ruby) 10%,transparent);padding:.12em .4em;border-radius:5px;font-size:.88em}
+    hr{border:none;border-top:1px solid var(--line);margin:2rem 0}
+    img{max-width:100%}
+    /* hero */
+    .hero{text-align:center;padding:2.2rem 1rem .6rem}
+    .hero .logo{width:92px;height:92px;border-radius:22px;box-shadow:var(--shadow);margin-bottom:.9rem}
+    .hero h1{margin:.15em 0}
+    .hero .tag{color:var(--muted);font-size:1.15rem;max-width:36ch;margin:.4rem auto 1.3rem}
+    .btns{display:flex;gap:.7rem;justify-content:center;flex-wrap:wrap}
+    .btn{display:inline-block;padding:.6rem 1.25rem;border-radius:999px;font-weight:600;box-shadow:var(--shadow)}
+    .btn.primary{background:var(--ruby);color:#fff}.btn.primary:hover{background:var(--clay);text-decoration:none}
+    .btn.ghost{background:var(--paper);color:var(--ink);border:1px solid var(--line)}.btn.ghost:hover{text-decoration:none;border-color:var(--clay)}
+    /* cards */
+    .cards{display:grid;grid-template-columns:repeat(auto-fit,minmax(200px,1fr));gap:1rem;margin:1.6rem 0}
+    .card{display:block;background:var(--paper);border:1px solid var(--line);border-radius:var(--radius);
+      padding:1.05rem 1.15rem;box-shadow:var(--shadow);transition:transform .12s ease,box-shadow .12s ease}
+    .card:hover{transform:translateY(-3px);text-decoration:none;box-shadow:0 6px 16px rgba(120,60,30,.14)}
+    .card .t{font-family:Fraunces,serif;font-weight:600;font-size:1.12rem;color:var(--ink)}
+    .card .d{color:var(--muted);font-size:.94rem;margin-top:.15rem}
+    /* event callout */
+    .callout{background:linear-gradient(135deg,var(--ruby),var(--clay));color:#fff;border-radius:var(--radius);
+      padding:1.3rem 1.4rem;margin:1.5rem 0;box-shadow:var(--shadow)}
+    .callout .when{font-family:Fraunces,serif;font-size:1.35rem;font-weight:700;margin-bottom:.2rem}
+    .callout a{color:#fff;text-decoration:underline}
+    footer.site{max-width:760px;margin:1rem auto 3rem;padding:1.5rem;border-top:1px solid var(--line);
+      color:var(--muted);font-size:.9rem;text-align:center}
+    footer.site a{color:var(--muted)}
+    sub,small{color:var(--muted)}
   </style>
 </head>
 <body>
-{{ content }}
+  <header class="site">
+    <a class="brand" href="./"><img src="assets/logo.png" alt="">Ruby&nbsp;Trivia</a>
+    <nav>
+      <a href="plan">This&nbsp;week</a>
+      <a href="team">Team</a>
+      <a href="web3">Web3</a>
+      <a href="faq">FAQ</a>
+    </nav>
+  </header>
+  <main>{{ content }}</main>
+  <footer class="site">
+    Ruby&nbsp;Trivia · Ruby&nbsp;Labs · <a href="privacy">Privacy</a> · <a href="terms">Terms</a><br>
+    Utility-first. Nothing here is financial advice.
+  </footer>
 </body>
 </html>
