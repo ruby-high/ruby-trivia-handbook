@@ -20,20 +20,39 @@ title: Standup — Wednesday
 - What I'm **on next**
 - Anything **blocking** me / what I need from someone
 
-## 🟢 Web3 release — the call this week
-**Staged &amp; ready — recognition-only (no gameplay advantage, no prize, no return):**
+## 🟢 Web3 — what's live for holders
+On-chain recognition layer, keyed to verified **$TRIVIA** balance:
+- **Verified holder badge** — on profile + leaderboard
+- **Holders-only leaderboard** — its own tab
+- **Cosmetics** — tier-unlocked themes / badges / crowns (no gameplay power)
+- **Tier ladder** (by $TRIVIA held):
 
-| Perk | What it is |
-|---|---|
-| **Holder badge** | "verified holder" chip on profile + leaderboard |
-| **Holders-only leaderboard** | extra tab, cosmetic standing |
-| **Cosmetics catalog** | tier-unlocked themes / badges / crowns — no gameplay power |
-| **Tiers** | Holder → Stacker → Whale → Legend |
+| Tier | Holds | Score boost* |
+|---|---|---|
+| Ruby Holder | 1+ | 1.1× |
+| Ruby Stacker | 10,000+ | 1.25× |
+| Ruby Whale | 100,000+ | 1.5× |
+| Ruby Legend | 1,000,000+ | 2.0× |
 
-**Held back on purpose:** the score multiplier stays **off** (recognition-only) until legal + Lotus/Itachi clear it — it flips on later with a single switch, no redeploy. Nothing that touches returns / yield / staking, ever.
+\* Boosts are **gated OFF right now** — recognition-only, everyone scores the same — until legal + Lotus/Itachi clear it. Flips on with one switch, no redeploy.
 
-- **Needs:** GREEN sign-off (Lotus/Itachi) → then a coordinated prod deploy (owner + time).
-- **Next:** holder-verified achievement badge (ready to build); commemorative collectible (plan).
+## Staking
+**None.** "Stacker" is just a holder-tier name — there's no staking or locking live. (A refundable-lock design exists on paper for a possible future Solana build.)
+
+## Tokenomics — live today
+- **$TRIVIA** — Solana SPL token, mint `CQzNEHjLn3CGVCDet6KFgoxshcCtUFWEfrQe4rTR1V1A`, ~1B fixed supply, **the game never mints**, mint authority revoked, LP locked, 3% launch tax.
+- On-chain, that plus the **holder-recognition layer** above is what's real.
+
+## Tokenomics — designed, not yet built
+Roadmap only (the old design was EVM/BNB and is **not deployed**; a Solana build would be new work):
+- Competitions (tournaments / leagues) — entry-fee split ~10% burn / 15% treasury / 75% prize
+- Prize vault (seed early → taper to fee-funded)
+- Refundable membership locks (the "painless" supply sink)
+- Achievement NFTs (burn-to-mint collectibles)
+
+## The web3 call this week
+- **GREEN sign-off** (Lotus/Itachi) on the recognition list → coordinated prod deploy (owner + time).
+- **Next green:** holder-verified achievement badge (ready to build); commemorative collectible (plan).
 
 ## 📱 App stores
 - **Amazon** — token-free build submitting (targeted this week).
