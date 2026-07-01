@@ -25,6 +25,10 @@ Mined from what we actually shipped. Approve (move up), edit, or cut.
 - **Real business:** *"Made it official — Ruby Labs is a registered business, paperwork and all. Building this the right way: transparent, long-term, in the open. 🛠️"*
 - **Holder perks:** *"Holder recognition is rolling out — verified badge + a holders-only leaderboard. Recognition, not promises. web3.ruby-trivia.com"*
 
+**Thursday Space reminders** *(our X Space — Thu Jul 2, 6 PM PST / 9 PM ET)*
+- **Post Thu morning (for the people):** *"🔴 TONIGHT: Ruby Space on X — 6 PM PST / 9 PM ET. Come hang with the team and ask us anything about Ruby Trivia. Set a reminder 👇"*
+- **Post Thu night (with us, going live):** *"We're LIVE 🔴 Ruby Space is happening now — jump in, say hi, bring your questions. Trivia, the roadmap, whatever's on your mind."*
+
 **Evergreen**
 - **Challenge a friend:** *"Just beat today's Ruby Trivia daily quiz. Bet you can't top me 😏 ruby-trivia.com"*
 - **Rep it:** *"Ruby Trivia is live — free daily trivia + live multiplayer. We built you a game, not a chart. ruby-trivia.com"*

@@ -12,6 +12,7 @@ What's coming — so nobody misses it. Times in **ET** unless noted.
 
 ## This week — Jun 30 – Jul 6
 - **Thu Jul 2 · 11 AM ET** *(3 PM UTC)* — 🎙️ **LOOPLAY AMA #3**, we're a guest on X. → [talking points](space)
+- **Thu Jul 2 · 6 PM PST** *(9 PM ET)* — 🔴 **Ruby Space** — our own X Space, hosted by Odi. → [run of show](space-hosting)
 
 ## Standing rule
 Big drops (app-store listings, coin listings) — **wait until the community's ready to push it.** Line up the posts first, then release together.
