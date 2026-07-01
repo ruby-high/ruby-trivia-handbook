@@ -27,14 +27,14 @@ On-chain recognition layer, keyed to verified **$TRIVIA** balance:
 - **Cosmetics** — tier-unlocked themes / badges / crowns (no gameplay power)
 - **Tier ladder** (by $TRIVIA held):
 
-| Tier | Holds | Score boost* |
-|---|---|---|
-| Ruby Holder | 1+ | 1.1× |
-| Ruby Stacker | 10,000+ | 1.25× |
-| Ruby Whale | 100,000+ | 1.5× |
-| Ruby Legend | 1,000,000+ | 2.0× |
+| Tier | Holds |
+|---|---|
+| Ruby Holder | 1+ |
+| Ruby Stacker | 10,000+ |
+| Ruby Whale | 100,000+ |
+| Ruby Legend | 1,000,000+ |
 
-\* Boosts are **gated OFF right now** — recognition-only, everyone scores the same — until legal + Lotus/Itachi clear it. Flips on with one switch, no redeploy.
+Tiers are **status/recognition only** — badge, leaderboard standing, cosmetics. **No score boost, no gameplay advantage.** (Pay-to-win multipliers were removed — everyone scores the same.)
 
 ## Staking
 **None.** "Stacker" is just a holder-tier name — there's no staking or locking live. (A refundable-lock design exists on paper for a possible future Solana build.)

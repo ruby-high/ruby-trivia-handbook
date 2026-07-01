@@ -12,8 +12,8 @@ Verified **$TRIVIA** holders get recognition extras on top of the same free game
 - 🎨 **Cosmetics** — tier-unlocked themes, badges, crowns (looks only, no gameplay power).
 - 🪜 **Tiers** — Holder → Stacker → Whale → Legend recognition.
 
-## Our approach: recognition first
-We're shipping the perks that are **pure recognition** — no promises of returns, no pay-to-win. Anything that touches **gameplay** (like score boosts) goes through **legal review before it goes live.** Utility, not promises.
+## Our approach: recognition only
+The perks are **pure recognition** — cosmetics and status. **No gameplay advantage, no pay-to-win, no score boosts — ever.** Holding more $TRIVIA changes how you look and where you stand, never how you score. Utility, not promises.
 
 ## Coming next
 - **Holder achievement badge** — earn a recorded badge for being a verified holder.
