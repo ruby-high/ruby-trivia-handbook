@@ -43,12 +43,18 @@ Tiers are **status/recognition only** — badge, leaderboard standing, cosmetics
 - **$TRIVIA** — Solana SPL token, mint `CQzNEHjLn3CGVCDet6KFgoxshcCtUFWEfrQe4rTR1V1A`, ~1B fixed supply, **the game never mints**, mint authority revoked, LP locked, 3% launch tax.
 - On-chain, that plus the **holder-recognition layer** above is what's real.
 
-## Tokenomics — designed, not yet built
-Roadmap only (the old design was EVM/BNB and is **not deployed**; a Solana build would be new work):
-- Competitions (tournaments / leagues) — entry-fee split ~10% burn / 15% treasury / 75% prize
-- Prize vault (seed early → taper to fee-funded)
-- Refundable membership locks (the "painless" supply sink)
-- Achievement NFTs (burn-to-mint collectibles)
+## Tokenomics — what's actually legal to build next
+Per our compliance research (`WEB3-COMPLIANCE-GUARDRAILS.md`). Nothing token-touching ships without a crypto/securities attorney sign-off.
+
+**🟢 Green — deflation + rewards with no gameplay advantage, no wager, no return:**
+- **Collectible burn-to-mint NFTs** — spend $TRIVIA on a collectible; burns supply. (Zero utility/return claims.)
+- **Cosmetic burns** — spend $TRIVIA on themes/crowns/flair; a consumptive sink.
+- **Refundable access locks** — lock for status/community access (100% back, no yield) *if* non-custodial and not marketed as value.
+
+**🔴 Off the table — illegal gambling, do NOT build:**
+- ~~Paid-entry competitions / prize pools / prize vault~~ — skill + paid entry + prize is illegal in many US states. Only viable restructured as a **free-entry sweepstakes** (random winner, in-game prizes).
+
+**Hard no:** staking / yield · off-ramp / redemption · marketing burns as "price go up."
 
 ## The web3 call this week
 - **Ship it:** the recognition perks are green and ready — just schedule the prod deploy (who runs it + when).

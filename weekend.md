@@ -22,15 +22,15 @@ Fresh off launch, heads-down — building and having fun. Here's the plan and ho
 Repping Ruby this weekend? **These are rough examples to work from — make them your own, don't post them word-for-word.** Keep it utility-first, no price talk, and the game front and center:
 1. *Ruby Trivia is live. Daily quiz, live multiplayer, friend challenges — free, no ads, installs to your phone. We didn't promise you a chart; we built you a game. Play today's quiz 👉 ruby-trivia.com*
 2. *Heads-down weekend at Ruby Trivia — polishing the app and lining up the next game. Build in public, proof on chain. Come play while we cook 👉 ruby-trivia.com*
-3. *Holders: connect at web3.ruby-trivia.com for perks — a score multiplier, the holders-only leaderboard, cosmetics, more coming. Utility, not promises.*
+3. *Holders: connect at web3.ruby-trivia.com for perks — a verified badge, the holders-only leaderboard, cosmetics. Recognition, no gameplay advantage. Utility, not promises.*
 4. *No moonboy talk here — just a real game you can play right now and a roadmap we're building. ruby-trivia.com $TRIVIA*
 
 **Example "where we are" thread (a starting point — rewrite in your own voice):**
 > 1/ Where Ruby Trivia stands, post-launch — the honest version. 🧵
 > 2/ The app is **live and free**: daily quiz, live multiplayer, practice, friend challenges, leaderboards, 4 languages. Installs to your phone — no app store needed. ruby-trivia.com
-> 3/ **$TRIVIA** is on Solana. Transparent, deflationary design — scheduled burns + supply reduction over time. Utility-first; no promises of returns.
-> 4/ The **web3 layer** is live at web3.ruby-trivia.com — connect a wallet for holder perks (multiplier, holders-only leaderboard, cosmetics). Optional, adults-only.
-> 5/ Next up: **more games** (Chess soon → Home becomes a mini-game selector), tournaments, app-store listings. We'd rather ship simple things that work than promise complicated things that don't.
+> 3/ **$TRIVIA** is on Solana — fixed 1B supply, mint authority revoked, LP locked. Utility-first; no promises of returns.
+> 4/ The **web3 layer** is live at web3.ruby-trivia.com — connect a wallet for holder perks (verified badge, holders-only leaderboard, cosmetics — recognition, no gameplay advantage). Optional, adults-only.
+> 5/ Next up: **more games** (Chess soon → Home becomes a mini-game selector), app-store listings. We'd rather ship simple things that work than promise complicated things that don't.
 > 6/ Come play today's quiz, challenge a friend, and join our **Space this weekend**. 👉 ruby-trivia.com
 
 ## The Space (Saturday evening)
@@ -38,9 +38,9 @@ Repping Ruby this weekend? **These are rough examples to work from — make them
 - We'll cover what we shipped, the Ruby agent, live multiplayer, where $TRIVIA goes next — and take your questions. Bring your worst trivia takes.
 
 ## Holders
-- 💎 Connect at [web3.ruby-trivia.com](https://web3.ruby-trivia.com) for perks (score multiplier, holders-only leaderboard, cosmetics).
+- 💎 Connect at [web3.ruby-trivia.com](https://web3.ruby-trivia.com) for perks (verified badge, holders-only leaderboard, cosmetics — recognition, no gameplay advantage).
 
 ## Where we're headed
-More games, tournaments, app-store listings, more languages — **utility-first, deflationary, built in the open.** Targets, not guarantees; nothing here is financial advice.
+More games, app-store listings, more languages — **utility-first, built in the open.** Targets, not guarantees; nothing here is financial advice.
 
 **Play. Challenge. Help us spread it.** We'll keep shipping.

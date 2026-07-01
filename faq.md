@@ -23,7 +23,7 @@ Jump into a live round or challenge a friend head-to-head. Same questions, real 
 ## The token ($TRIVIA)
 
 **What does the token actually do?**
-Holder perks today — a **score multiplier**, a **holders-only leaderboard**, and **cosmetics** — with tournaments and burn-to-mint collectibles on the way. Connect a wallet at [web3.ruby-trivia.com](https://web3.ruby-trivia.com). It's **deflationary** by design: scheduled burns, supply trending down over time.
+Holder perks today are **recognition only** — a **verified holder badge**, a **holders-only leaderboard**, and **cosmetics** (looks, no gameplay advantage — everyone scores the same). Connect a wallet at [web3.ruby-trivia.com](https://web3.ruby-trivia.com). On the way: **collectible burn-to-mint NFTs**. Supply is fixed and can only go down — mint authority revoked, LP locked.
 
 **Where is it / what chain?**
 $TRIVIA is on **Solana**. CA: `CQzNEHjLn3CGVCDet6KFgoxshcCtUFWEfrQe4rTR1V1A`. Always verify the contract address yourself before interacting.
@@ -48,7 +48,7 @@ The game is for everyone, and kids play **anonymously with no crypto in front of
 A small crew that ships in the open — **Odi (lead marketing)** and **Dutch (lead dev)** at the core, both doing a bit of everything. More on the [team page](team).
 
 **What's next?**
-More games (**Chess** is in the works → Home becomes a mini-game selector), tournaments, app-store listings, and more languages. We give targets, not guarantees, because we'd rather under-promise and ship.
+More games (**Chess** is in the works → Home becomes a mini-game selector), app-store listings, and more languages. We give targets, not guarantees, because we'd rather under-promise and ship.
 
 ---
 *Still have a question? Ask in [Telegram](https://t.me/rubytrivia) or at our next X Space.*
