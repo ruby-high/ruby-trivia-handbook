@@ -8,8 +8,8 @@ Our curated tweet pile. **1–2 of us approve** a line before it's cleared to po
 posts it (human **or** the bot) marks it **Posted** so it never goes out twice. Utility-first —
 **no price talk, no obvious AI copy.**
 
-> Heads up: this page is the human-readable view. Ticking/approving/marking-posted needs shared
-> state the bot can also read — see [how we're wiring that up](#making-it-real) at the bottom.
+> ⚠️ **This page is the tweet queue for now** (the shared sheet is offline). To approve or mark
+> posted, edit this page or just call it in team chat. Humans only — no bot.
 
 ## ✅ Approved — cleared to post
 *(the bot may draw from these when it needs something; move a line here once it's thumbed-up)*
@@ -39,10 +39,4 @@ Mined from what we actually shipped. Approve (move up), edit, or cut.
 - *(nothing yet)*
 
 ---
-
-## Making it real
-Checkboxes on a static site can't be approved or checked off, and the X bot can't read them. To get
-**human approval + bot draw + no-repeats**, the pile needs to live in shared state both sides can
-read/write. That's a small piece of infra — see the note in chat for the options.
-
 [← This week](plan) · [Playbook](playbook) · [Calendar](calendar)
