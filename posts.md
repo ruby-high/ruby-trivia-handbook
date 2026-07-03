@@ -8,8 +8,9 @@ Our curated tweet pile. **1–2 of us approve** a line before it's cleared to po
 posts it (human **or** the bot) marks it **Posted** so it never goes out twice. Utility-first —
 **no price talk, no obvious AI copy.**
 
-> ⚠️ **This page is the tweet queue for now** (the shared sheet is offline). To approve or mark
-> posted, edit this page or just call it in team chat. Humans only — no bot.
+> 📝 **Modify the tweets in the [shared tweet sheet](https://docs.google.com/spreadsheets/d/1rtTNF8nfPnF26AVaMfgbm_BlPyRUlZlKCNdQZrGe_r4/edit?usp=sharing).**
+> That's the working doc — add drafts, tweak copy, and queue lines there. This page mirrors what's
+> **approved** and **posted** so nothing goes out twice. Utility-first, humans approve before posting.
 
 ## ✅ Approved — cleared to post
 *(the bot may draw from these when it needs something; move a line here once it's thumbed-up)*

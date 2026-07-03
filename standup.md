@@ -13,7 +13,7 @@ title: Standup — Wednesday
 - ✅ **Stores in motion** — Amazon APK submitting; Steam account created.
 - ✅ **Web3 recognition layer** built + tested — recognition-only, ready to deploy (below).
 - ✅ **Handbook expanded** — Posts / Calendar / Playbook / Roadmap tabs + mobile nav.
-- ✅ **Tweet queue** (shared sheet) live for the team.
+- ✅ **Tweet queue** — [shared sheet](https://docs.google.com/spreadsheets/d/1rtTNF8nfPnF26AVaMfgbm_BlPyRUlZlKCNdQZrGe_r4/edit?usp=sharing) live for the team (mirrored on the [Posts](posts) page).
 
 ## Round the room (each person, ~2 min)
 - What I **shipped** since last sync
