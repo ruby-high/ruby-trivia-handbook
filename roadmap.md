@@ -13,7 +13,7 @@ Where Ruby's headed — by quarter. **Targets, not guarantees;** we ship fast an
 - **In the app stores** — Amazon first, then Google Play &amp; Solana Seeker. Free, no ads, same game everywhere.
 - **One Ruby account** — web, mobile, Telegram, X, and wallet on one profile (Telegram + X linking live).
 - **Holder perks** — recognition badge + holders-only leaderboard; holders get **premium free while they hold**.
-- **The Ruby App Suite begins** — games grouped into category apps (Trivia now → Words, Math, Strategy, Arcade, Adventures); one subscription unlocks a suite.
+- **The Ruby App Suite begins** — games grouped into category apps (Trivia now → Words, Math, Strategy, Arcade, Adventures); one subscription unlocks a suite. → [**Game catalog &amp; status**](https://docs.google.com/spreadsheets/d/1E46cSpul9vy71_MXZ7SmFD6wxEs492XMeCSjHpfMVxw/edit) (live planning sheet — games, modes, what's built).
 - **Content machine** — daily trivia, polls, and fun-fact posts; the first live show with Ruby hosting.
 - **90-day check** — an honest progress report at the quarter line.
 
