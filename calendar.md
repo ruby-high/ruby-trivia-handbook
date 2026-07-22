@@ -14,13 +14,16 @@ What's coming — so nobody misses it. Times in **ET** unless noted.
 
 ## This week — Jul 20 – 26
 - **Wed Jul 22 · AM** — 🧭 **Standup**. → [agenda](standup)
-- **All week** — ⏳ **Store reviews.** Google Play and Amazon both in the queue. Review takes a few days to a couple of weeks; **nothing to announce until an approval actually lands.**
+- **Thu Jul 23 · evening ET** — 🎙️ **We host a Space.** Play Store + new games + what's next. Confirm the time and pin it early. → [run of show](space)
+- **✅ Google Play — we're in.** Live listing; lead the Space and the posts with it.
+- **All week** — ⏳ **Amazon review** still in the queue; Steam on deck.
 
-> Spaces / AMAs this week: none locked in yet — add them here as they're booked so they land in the [posts](posts) plan with enough lead time.
+> Space booked for Thu — get the [posts](posts) lined up during the day so we can push the recording and CTAs right after.
 
 ## Watching for
-- **Store approval emails** — when one lands, that's the trigger for the launch post, not before. → [standing rule](#standing-rule)
-- **Steam** — build still on deck after the two mobile stores clear.
+- **Amazon approval email** — when it lands, that's the trigger for its launch post. → [standing rule](#standing-rule)
+- **Steam** — build on deck after Amazon clears.
+- **Seeker dApp Store** — Solana Mobile submission; on-brand distribution, coming.
 
 ## Standing rule
 Big drops (app-store listings, coin listings) — **wait until the community's ready to push it.** Line up the posts first, then release together.
