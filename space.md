@@ -84,7 +84,10 @@ The strategy in one line: **meet players where they already are.**
 - **Amazon Appstore** — submitted, in review.
 - **Steam** — on deck.
 - **Seeker dApp Store (Solana Mobile)** — coming. Solana-native store, **zero platform fees**, exactly the right home for a Solana project. This one's on-brand: our token's chain, our store.
+- **uOS Mini App store** — a listing in review, so Ruby runs inside that ecosystem too.
 - **Discord** — activity coming, so you can play Ruby **inside** a server without leaving chat.
+
+And the stream now **markets itself** — when the 24/7 channel goes live, it auto-posts to Telegram and X on its own.
 
 🔑 *"Everywhere people already are — the web, their phone, their Discord, their Solana phone."*
 
